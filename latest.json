@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.7.0",
-  "notes": "Uzbek TV kanallari, til tanlash (RU/EN/UZ), avtomatik yangilanish.",
-  "apkUrl": "https://github.com/dev-limucc/filmanica/releases/download/v1.7.0/Filmanica-1.7.0.apk"
+  "versionCode": 20,
+  "versionName": "1.8.0",
+  "notes": "Rossiya telekanallari, O‘zbekiston + Rossiya bo‘yicha kanal qidiruvi, TV ro‘yxati xatosi tuzatildi.",
+  "apkUrl": "https://github.com/dev-limucc/filmanica/releases/download/v1.8.0/Filmanica-1.8.0.apk"
 }
