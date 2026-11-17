@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.8.0",
-  "notes": "Rossiya telekanallari, O‘zbekiston + Rossiya bo‘yicha kanal qidiruvi, TV ro‘yxati xatosi tuzatildi.",
-  "apkUrl": "https://github.com/dev-limucc/filmanica/releases/download/v1.8.0/Filmanica-1.8.0.apk"
+  "versionCode": 21,
+  "versionName": "1.8.1",
+  "notes": "Rossiya telekanallari, O‘zbekiston + Rossiya bo‘yicha kanal qidiruvi, TV ro‘yxati xatosi tuzatildi, sekin internetda yangilanish ishlaydi.",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/dev-limucc/filmanica@v1.8.1/apk/Filmanica-1.8.1.apk"
 }
