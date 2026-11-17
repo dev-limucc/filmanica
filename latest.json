@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.8.1",
-  "notes": "Rossiya telekanallari, O‘zbekiston + Rossiya bo‘yicha kanal qidiruvi, TV ro‘yxati xatosi tuzatildi, sekin internetda yangilanish ishlaydi.",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/dev-limucc/filmanica@v1.8.1/apk/Filmanica-1.8.1.apk"
+  "versionCode": 22,
+  "versionName": "1.8.2",
+  "notes": "KinoGo subtitrlari endi chiqadi (rus/ingliz/ukrain). O‘chirilsa, o‘chiq qoladi.",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/dev-limucc/filmanica@v1.8.2/apk/Filmanica-1.8.2.apk"
 }
