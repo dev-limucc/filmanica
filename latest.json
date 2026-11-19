@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.8.2",
-  "notes": "KinoGo subtitrlari endi chiqadi (rus/ingliz/ukrain). O‘chirilsa, o‘chiq qoladi.",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/dev-limucc/filmanica@v1.8.2/apk/Filmanica-1.8.2.apk"
+  "versionCode": 23,
+  "versionName": "1.8.3",
+  "notes": "Subtitrlar endi pastdan kesilmaydi: har qanday zoom rejimida ekranda ko‘rinadi.",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/dev-limucc/filmanica@v1.8.3/apk/Filmanica-1.8.3.apk"
 }
