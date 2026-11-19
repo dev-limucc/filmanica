@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "1.8.4",
-  "notes": "Ishlamaydigan kanallar 'Ishlamayapti' bo‘limiga yashirildi, yangi ikonka va TV banner, xato bo‘lsa keyingi ochilishda ko‘rsatiladi.",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/dev-limucc/filmanica@v1.8.4/apk/Filmanica-1.8.4.apk"
+  "versionCode": 25,
+  "versionName": "1.8.5",
+  "notes": "AsilMedia tezroq: parallel yuklash, server sekin bo‘lsa 720p/480p ga avtomatik o‘tadi, kattaroq bufer.",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/dev-limucc/filmanica@v1.8.5/apk/Filmanica-1.8.5.apk"
 }
