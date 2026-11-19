@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.8.3",
-  "notes": "Subtitrlar endi pastdan kesilmaydi: har qanday zoom rejimida ekranda ko‘rinadi.",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/dev-limucc/filmanica@v1.8.3/apk/Filmanica-1.8.3.apk"
+  "versionCode": 24,
+  "versionName": "1.8.4",
+  "notes": "Ishlamaydigan kanallar 'Ishlamayapti' bo‘limiga yashirildi, yangi ikonka va TV banner, xato bo‘lsa keyingi ochilishda ko‘rsatiladi.",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/dev-limucc/filmanica@v1.8.4/apk/Filmanica-1.8.4.apk"
 }
