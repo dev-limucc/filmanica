@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.8.5",
-  "notes": "AsilMedia tezroq: parallel yuklash, server sekin bo‘lsa 720p/480p ga avtomatik o‘tadi, kattaroq bufer.",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/dev-limucc/filmanica@v1.8.5/apk/Filmanica-1.8.5.apk"
+  "versionCode": 26,
+  "versionName": "1.8.6",
+  "notes": "TV pultida: yangilash tugmasi fokusni yo‘qotmaydi (OK endi tilni o‘zgartirib yubormaydi).",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/dev-limucc/filmanica@v1.8.6/apk/Filmanica-1.8.6.apk"
 }
