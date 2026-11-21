@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.8.6",
-  "notes": "TV pultida: yangilash tugmasi fokusni yo‘qotmaydi (OK endi tilni o‘zgartirib yubormaydi).",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/dev-limucc/filmanica@v1.8.6/apk/Filmanica-1.8.6.apk"
+  "versionCode": 27,
+  "versionName": "1.8.7",
+  "notes": "KinoGo'dagi 'pleer yo‘q' filmlar endi zaxira pleer orqali ochiladi; qidiruv xato yozilgan nomlarni ham topadi (seven -> Se7en, matritsa -> Matritsa).",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/dev-limucc/filmanica@v1.8.7/apk/Filmanica-1.8.7.apk"
 }
