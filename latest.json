@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "1.8.7",
-  "notes": "KinoGo'dagi 'pleer yo‘q' filmlar endi zaxira pleer orqali ochiladi; qidiruv xato yozilgan nomlarni ham topadi (seven -> Se7en, matritsa -> Matritsa).",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/dev-limucc/filmanica@v1.8.7/apk/Filmanica-1.8.7.apk"
+  "versionCode": 28,
+  "versionName": "1.8.8",
+  "notes": "O‘zbekiston uchun yopilgan KinoGo filmlari endi 'pleer yo‘q' emas, aniq sababini ko‘rsatadi.",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/dev-limucc/filmanica@v1.8.8/apk/Filmanica-1.8.8.apk"
 }
